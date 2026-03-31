@@ -63,11 +63,11 @@ Step 2: Configure the Experiment
 Open the config.py file and edit the global variables at the top according to your current trial:
 
 Python
-# ====================================================================
+```bash
 # GLOBAL EXPERIMENT CONFIGURATION
-# ====================================================================
 VERSAO_ATUAL = 'C6'  # Available options: 'C6', 'C7', 'C8', 'C10'
 IMOD_ATUAL = 1       # 0 = Esterification, 1 = Transesterification
+```
 Note: When running the Esterification phase (IMOD = 0), make sure to update the parameters in the Epar tuple inside config.py with the optimal values found by the terminal before moving on to the Transesterification phase (IMOD = 1).
 
 Step 3: Run the Simulation
