@@ -1,0 +1,83 @@
+------ Project Conversion started on 10/30/2012 at 2:31 PM - Project: Estimacao ------
+
+Creating configuration context: Estimacao - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: Estimacao - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Estimacao project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\AMANDA BRANDAO\Documents\Visual Studio 2008\Projects\QuaseQuase\Estimacao\Estimacao_log.txt"
+
+
+------ Project Conversion started on 31/10/2012 at 08:43 - Project: Estimacao ------
+
+Creating configuration context: Estimacao - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: Estimacao - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Estimacao project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Bruno\Desktop\QuaseQuase\Estimacao\Estimacao_log.txt"
+
+
+------ Project Conversion started on 31/10/2012 at 08:53 - Project: Estimacao ------
+
+Creating configuration context: Estimacao - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: Estimacao - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Estimacao project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Bruno\Desktop\QuaseQuase\Estimacao\Estimacao_log.txt"
+
+
+------ Project Conversion started on 31/10/2012 at 20:05 - Project: Estimacao ------
+
+Creating configuration context: Estimacao - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: Estimacao - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Estimacao project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Bruno\Desktop\QuaseQuase\Estimacao\Estimacao_log.txt"
+
+
+------ Project Conversion started on 31/10/2012 at 20:09 - Project: Estimacao ------
+
+Creating configuration context: Estimacao - Win32 Debug...
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: Estimacao - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+Estimacao project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\Bruno\Desktop\QuaseQuase\Estimacao\Estimacao_log.txt"

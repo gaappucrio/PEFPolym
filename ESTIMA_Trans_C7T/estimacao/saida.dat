@@ -1,0 +1,80 @@
+
+  Iteracao =   0
+  Funcao objetivo =0.674602E+02
+  Parametros =     0.348606E+00     0.525401E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298880E+01   0.302902E+01   0.314062E+01   0.360009E+01   0.492464E+01   0.720848E+01   0.123297E+02   0.142012E+02   0.149299E+02   0.150284E+02   0.150371E+02   0.150372E+02   0.150373E+02   0.600946E+02   0.765503E+02   0.939432E+02   0.110997E+03   0.128282E+03
+
+  Variacao linear da funcao objetivo =-.109544E+03
+  Variacao dos parametros =  -.113179E-02  -.597898E-03
+  Passo =0.100000E+01     Nova funcao objetivo =0.554838E+02
+
+  Iteracao =   1
+  Funcao objetivo =0.554838E+02
+  Parametros =     0.347475E+00     0.524803E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298880E+01   0.302901E+01   0.314047E+01   0.359959E+01   0.492412E+01   0.719202E+01   0.126191E+02   0.144482E+02   0.151543E+02   0.152518E+02   0.152604E+02   0.152609E+02   0.152611E+02   0.599359E+02   0.765763E+02   0.941560E+02   0.111751E+03   0.129463E+03
+
+  Variacao linear da funcao objetivo =-.243955E+02
+  Variacao dos parametros =  0.217172E-01  0.266251E-02
+  Passo =0.100000E+01     Nova funcao objetivo =0.923493E+02
+
+  Iteracao =   2
+  Funcao objetivo =0.446317E+02
+  Parametros =     0.358399E+00     0.526142E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298881E+01   0.302912E+01   0.314179E+01   0.360391E+01   0.493432E+01   0.722051E+01   0.132797E+02   0.148262E+02   0.152712E+02   0.153149E+02   0.153178E+02   0.153182E+02   0.153182E+02   0.616099E+02   0.790339E+02   0.971355E+02   0.115361E+03   0.133592E+03
+
+  Variacao linear da funcao objetivo =-.487585E+02
+  Variacao dos parametros =  -.904809E-02  -.245665E-02
+  Passo =0.100000E+01     Nova funcao objetivo =0.418620E+02
+
+  Iteracao =   3
+  Funcao objetivo =0.418620E+02
+  Parametros =     0.349351E+00     0.523685E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298880E+01   0.302902E+01   0.314068E+01   0.360024E+01   0.492596E+01   0.719758E+01   0.130806E+02   0.148029E+02   0.154267E+02   0.155176E+02   0.155233E+02   0.155240E+02   0.155240E+02   0.602268E+02   0.772780E+02   0.952134E+02   0.113240E+03   0.131433E+03
+
+  Variacao linear da funcao objetivo =-.289161E+02
+  Variacao dos parametros =  -.195904E-01  0.166106E-01
+  Passo =0.100000E+01     Nova funcao objetivo =0.713064E+02
+
+  Iteracao =   4
+  Funcao objetivo =0.411493E+02
+  Parametros =     0.349351E+00     0.523685E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298880E+01   0.302902E+01   0.314068E+01   0.360024E+01   0.492596E+01   0.719711E+01   0.131088E+02   0.148243E+02   0.154428E+02   0.155320E+02   0.155380E+02   0.155383E+02   0.155384E+02   0.602375E+02   0.773096E+02   0.952610E+02   0.113241E+03   0.131306E+03
+
+  Variacao linear da funcao objetivo =-.260355E+02
+  Variacao dos parametros =  -.610336E-02  0.378528E-02
+  Passo =0.100000E+01     Nova funcao objetivo =0.813532E+02
+
+  Iteracao =   5
+  Funcao objetivo =0.400134E+02
+  Parametros =     0.349329E+00     0.523699E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298880E+01   0.302902E+01   0.314067E+01   0.360023E+01   0.492594E+01   0.719654E+01   0.131438E+02   0.148512E+02   0.154606E+02   0.155650E+02   0.155708E+02   0.155712E+02   0.155712E+02   0.602489E+02   0.773460E+02   0.953303E+02   0.113334E+03   0.131435E+03
+
+  Variacao linear da funcao objetivo =-.286093E+02
+  Variacao dos parametros =  0.123106E-01  -.163912E-01
+  Passo =0.100000E+01     Nova funcao objetivo =0.384767E+02
+
+  Iteracao =   6
+  Funcao objetivo =0.384767E+02
+  Parametros =     0.361640E+00     0.507308E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298881E+01   0.302904E+01   0.314195E+01   0.360485E+01   0.493719E+01   0.723468E+01   0.130805E+02   0.148596E+02   0.155866E+02   0.156910E+02   0.156981E+02   0.156981E+02   0.156981E+02   0.618274E+02   0.794393E+02   0.980108E+02   0.116563E+03   0.135429E+03
+
+  Variacao linear da funcao objetivo =-.393419E+02
+  Variacao dos parametros =  0.156275E-02  0.594103E-04
+  Passo =0.100000E+01     Nova funcao objetivo =0.593853E+02
+
+  Iteracao =   7
+  Funcao objetivo =0.255765E+02
+  Parametros =     0.361165E+00     0.507290E+00
+  Variaveis Dependentes (Y)
+  Exp =   1   0.298614E+01   0.298881E+01   0.302904E+01   0.314191E+01   0.360469E+01   0.493673E+01   0.723470E+01   0.132016E+02   0.158450E+02   0.166959E+02   0.167573E+02   0.167613E+02   0.167617E+02   0.167617E+02   0.617746E+02   0.803120E+02   0.100234E+03   0.120248E+03   0.140271E+03
+
+  Variacao linear da funcao objetivo =-.200602E+02
+  Variacao dos parametros =  -.706033E-02  -.121202E-01
+  Passo =0.100000E+01     Nova funcao objetivo =0.120032E+04

@@ -1,0 +1,5 @@
+1   ! Num experimentos
+16	! num de dados de condensado na trans
+5	! num de dados de Mn na trans	
+18  ! num de pontos de tempo na esterificacao
+34  ! dimensao do vetor tempo grandao

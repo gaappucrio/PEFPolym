@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Estimacao", "Estimacao\Estimacao.vfproj", "{E877D8CD-49C2-441F-8384-89DE9B503FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E877D8CD-49C2-441F-8384-89DE9B503FA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E877D8CD-49C2-441F-8384-89DE9B503FA0}.Debug|Win32.Build.0 = Debug|Win32
+		{E877D8CD-49C2-441F-8384-89DE9B503FA0}.Release|Win32.ActiveCfg = Release|Win32
+		{E877D8CD-49C2-441F-8384-89DE9B503FA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F71CFF-916E-4F08-8145-FF4EF1FB4786}
+	EndGlobalSection
+EndGlobal

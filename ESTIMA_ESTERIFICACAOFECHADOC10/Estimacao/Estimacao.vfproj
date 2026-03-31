@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioProject ProjectCreator="Intel Fortran" Keyword="Console Application - Converted from CVF" Version="11.0" ProjectIdGuid="{E877D8CD-49C2-441F-8384-89DE9B503FA0}">
+	<Platforms>
+		<Platform Name="Win32"/></Platforms>
+	<Configurations>
+		<Configuration Name="Debug|Win32" OutputDirectory="Debug" IntermediateDirectory="Debug" DeleteExtensionsOnClean="*.obj;*.mod;*.pdb;*.asm;*.map;*.dyn;*.dpi;*.tmp;*.log;*.ilk;*.exe;$(TargetPath)">
+				<Tool Name="VFFortranCompilerTool" SuppressStartupBanner="true" DebugInformationFormat="debugEnabled" Optimization="optimizeDisabled" LocalVariableStorage="localStorageSave" CallingConvention="callConventionCVF" ModulePath="$(INTDIR)/" ObjectFile="$(INTDIR)/" AssemblerListingLocation="$(INTDIR)/" Traceback="true" BoundsCheck="true" RuntimeLibrary="rtMultiThreadedDebug"/>
+				<Tool Name="VFLinkerTool" AdditionalOptions="/MACHINE:I386" OutputFile="$(OUTDIR)/Estimacao.exe" LinkIncremental="linkIncrementalNo" SuppressStartupBanner="true" GenerateDebugInformation="true" ProgramDatabaseFile="$(OUTDIR)/Estimacao.pdb" SubSystem="subSystemConsole" StackReserveSize="80000000" ImportLibrary="" AdditionalDependencies="kernel32.lib"/>
+				<Tool Name="VFResourceCompilerTool" PreprocessorDefinitions="_DEBUG" Culture="rcPortugueseBrazilian" ResourceOutputFileName="$(INTDIR)/$(InputName).res"/>
+				<Tool Name="VFMidlTool" SuppressStartupBanner="true" HeaderFileName="" DLLDataFileName="" TypeLibraryName="$(OUTDIR)/Estimacao.tlb"/>
+				<Tool Name="VFCustomBuildTool"/>
+				<Tool Name="VFPreLinkEventTool"/>
+				<Tool Name="VFPreBuildEventTool"/>
+				<Tool Name="VFPostBuildEventTool"/>
+				<Tool Name="VFManifestTool" SuppressStartupBanner="true"/></Configuration>
+		<Configuration Name="Release|Win32" OutputDirectory="Release" IntermediateDirectory="Release" DeleteExtensionsOnClean="*.obj;*.mod;*.pdb;*.asm;*.map;*.dyn;*.dpi;*.tmp;*.log;*.ilk;*.exe;$(TargetPath)">
+				<Tool Name="VFFortranCompilerTool" SuppressStartupBanner="true" DebugInformationFormat="debugEnabled" LocalVariableStorage="localStorageSave" CallingConvention="callConventionCVF" ModulePath="$(INTDIR)/" ObjectFile="$(INTDIR)/" AssemblerListingLocation="$(INTDIR)/"/>
+				<Tool Name="VFLinkerTool" AdditionalOptions="/MACHINE:I386" OutputFile="$(OUTDIR)/Estimacao.exe" LinkIncremental="linkIncrementalNo" SuppressStartupBanner="true" GenerateDebugInformation="true" ProgramDatabaseFile="$(OUTDIR)/Estimacao.pdb" SubSystem="subSystemConsole" OptimizeReferences="optReferences" EnableCOMDATFolding="optFolding" ImportLibrary="" AdditionalDependencies="kernel32.lib"/>
+				<Tool Name="VFResourceCompilerTool" PreprocessorDefinitions="NDEBUG" Culture="rcPortugueseBrazilian" ResourceOutputFileName="$(INTDIR)/$(InputName).res"/>
+				<Tool Name="VFMidlTool" SuppressStartupBanner="true" HeaderFileName="" DLLDataFileName="" TypeLibraryName="$(OUTDIR)/Estimacao.tlb"/>
+				<Tool Name="VFCustomBuildTool"/>
+				<Tool Name="VFPreLinkEventTool"/>
+				<Tool Name="VFPreBuildEventTool"/>
+				<Tool Name="VFPostBuildEventTool"/>
+				<Tool Name="VFManifestTool" SuppressStartupBanner="true"/></Configuration></Configurations>
+	<Files>
+		<Filter Name="Arquivos do Enxame_Maxima" Filter="cpp;c;cxx;rc;def;r;odl;idl;hpj;bat;f90;for;f;fpp">
+		<File RelativePath=".\Calcula.f90"/>
+		<File RelativePath=".\Derivadas.f90"/>
+		<File RelativePath=".\Enxame0.f90"/>
+		<File RelativePath=".\Erro.F90"/>
+		<File RelativePath=".\Inversa.f90"/>
+		<File RelativePath=".\JAC.F90"/>
+		<File RelativePath=".\Limites.F90"/>
+		<File RelativePath=".\Regres0.f90"/></Filter>
+		<Filter Name="Arquivos do Usuario" Filter="h;hpp;hxx;hm;inl;fi;fd">
+		<Filter Name="Leitura">
+		<File RelativePath=".\dadosbusca.dat"/>
+		<File RelativePath=".\dadosexp.dat"/>
+		<File RelativePath=".\exp.dat"/></Filter>
+		<Filter Name="SubrotinasTransf">
+		<File RelativePath=".\Antoine.F90"/>
+		<File RelativePath=".\Equilibrio.F90"/>
+		<File RelativePath=".\EquilibrioTrans.F90"/>
+		<File RelativePath=".\Modificakl.F90"/>
+		<File RelativePath=".\Volume.F90"/>
+		<File RelativePath=".\VolumeTrans.F90"/></Filter>
+		<File RelativePath=".\dassl.f"/>
+		<File RelativePath=".\Leitura.f90"/>
+		<File RelativePath=".\MnPolimero.F90"/>
+		<File RelativePath=".\Modelo.f90"/>
+		<File RelativePath=".\Reinicializa.F90"/>
+		<File RelativePath=".\RES.F90"/>
+		<File RelativePath=".\Taxa.f90"/></Filter>
+		<Filter Name="EqAlg">
+		<File RelativePath=".\dados.txt"/>
+		<File RelativePath=".\dados2.txt"/>
+		<File RelativePath=".\FCN.F90"/></Filter>
+		<Filter Name="Módulo">
+		<File RelativePath=".\ModuloExtra.F90"/>
+		<File RelativePath=".\Parametros.F90"/>
+		<File RelativePath=".\Propriedades.F90"/>
+		<File RelativePath=".\Variaveis.f90"/></Filter>
+		<Filter Name="Principal">
+		<File RelativePath=".\Principal.f90"/></Filter>
+		<Filter Name="Resultados" Filter="ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe">
+		<File RelativePath=".\grafico.dat"/>
+		<File RelativePath=".\graficocorrel.dat"/>
+		<File RelativePath=".\RegConfcorrel.dat"/>
+		<File RelativePath=".\relatorio.dat"/>
+		<File RelativePath=".\relatoriocorrel.dat"/></Filter></Files>
+	<Globals/></VisualStudioProject>

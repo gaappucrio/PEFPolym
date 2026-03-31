@@ -1,0 +1,28 @@
+   0			Ist: 0- representa minimos quadrados ponderados		
+						
+  1			    RegConf: 1- determina a região de confiança com Enxame; 0 não faz			
+						
+  5000		    Número máximo de iterações				
+  50			Número de partículas			
+  1.5,  1.5		C1, C2	Parâmetros do Enxame			
+  0.95, 0.75	Wo, Wf	Parâmetros do Enxame				
+  1.5			Restrição do passo			
+  0.25			Parâmetro de Bailey			
+  1.d-4			Tolerância da função objetivo			
+  1.d-4			Tolerância do passo			
+  0.95			Nível de confiança			
+						
+  2				Npar		
+						
+						
+0.372262d0
+0.523907d0
+						
+-2.90d0,2.2d0						
+-.50d0,2.d0		
+				
+						
+  2.d-4						Perturbação de Par1 para o cálculo de derivadas
+  2.d-4						Perturbação de Par1 para o cálculo de derivadas
+  2.d-4						Perturbação de Par1 para o cálculo de derivadas
+  1.d-8						Perturbação de Par1 para o cálculo de derivadas

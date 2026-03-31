@@ -1,0 +1,82 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Estimacao - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Jorge\CONFIG~1\Temp\RSPEA.tmp" with contents
+[
+/check:bounds /compile_only /dbglibs /debug:full /nologo /traceback /warn:argument_checking /warn:nofileopt /module:"Debug/" /object:"Debug/" /pdbfile:"Debug/DF60.PDB" 
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Flagmodelo.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Variaveis.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Taxa.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Modelo.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Leitura.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\dlinpk.f"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\ddaspk.f"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\daux.f"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres2.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres1.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres0.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Principal.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Inversa.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame2.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame1.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame0.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Derivadas.f90"
+"C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Calcula.f90"
+]
+Creating temporary file "C:\DOCUME~1\Jorge\CONFIG~1\Temp\RSPEB.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:no /pdb:"Debug/Estimacao.pdb" /debug /machine:I386 /out:"Debug/Estimacao.exe" /pdbtype:sept 
+".\Debug\Calcula.obj"
+".\Debug\Derivadas.obj"
+".\Debug\Enxame0.obj"
+".\Debug\Enxame1.obj"
+".\Debug\Enxame2.obj"
+".\Debug\Flagmodelo.obj"
+".\Debug\Inversa.obj"
+".\Debug\Principal.obj"
+".\Debug\Regres0.obj"
+".\Debug\Regres1.obj"
+".\Debug\Regres2.obj"
+".\Debug\Variaveis.obj"
+".\Debug\daux.obj"
+".\Debug\ddaspk.obj"
+".\Debug\dlinpk.obj"
+".\Debug\Leitura.obj"
+".\Debug\Modelo.obj"
+".\Debug\Taxa.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\Jorge\CONFIG~1\Temp\RSPEB.tmp"
+<h3>Output Window</h3>
+Compiling Fortran...
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Flagmodelo.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Variaveis.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Taxa.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Modelo.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Leitura.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\dlinpk.f
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\ddaspk.f
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Ddaspk\daux.f
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres2.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres1.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Regres0.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Principal.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Inversa.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame2.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame1.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Enxame0.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Derivadas.f90
+C:\Documents and Settings\Jorge\Desktop\QuaseQuase\Estimacao\Calcula.f90
+Linking...
+
+
+
+<h3>Results</h3>
+Estimacao.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
