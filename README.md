@@ -75,8 +75,8 @@ Step 3: Run the Simulation
 In the terminal, ensure your pyenv environment is active and run:
 Example for EtretificacaoFechadoC10:
 ```bash
-cd .\ESTIMA_ESTERIFICACAOFECHADOC10\
-cd .\Estimacao\
+cd ESTIMA_ESTERIFICACAOFECHADOC10
+cd Estimacao
 python main.py
 ```
 The terminal will print the Differential Evolution steps, perform the Gauss-Newton refinement, display the Optimal Parameters, and open a window with the validation plot.
