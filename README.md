@@ -46,6 +46,10 @@ pyenv virtualenv 3.11.7 polymer-reactor
 
 # Activate the virtual environment locally for this specific folder
 pyenv local polymer-reactor
+
+# Clone the repository
+git clone https://github.com/gaappucrio/PEFPolym.git
+cd PEFPolym
 ```
 
 3. Installing Dependencies
