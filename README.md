@@ -1,4 +1,5 @@
 # 🧪 Simulation and Parameter Estimation - Polycondensation Reactor
+Access the paper at: https://4spepublications.onlinelibrary.wiley.com/doi/full/10.1002/pen.24605
 
 A robust kinetic and thermodynamic simulator developed in Python for batch polycondensation reactors. The software integrates Differential Algebraic Equations (DAEs) for mass balance and performs kinetic parameter estimation using global (Particle Swarm/Differential Evolution) and local (Levenberg-Marquardt) optimization algorithms.
 
